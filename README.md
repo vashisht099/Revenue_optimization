@@ -1,4 +1,10 @@
 # Revenue_optimization
+
+## Problem Statement
+In the highly competitive hospitality industry, a prominent player with a 20-year legacy, operating a network of prestigious five-star hotels across India, is facing a critical challenge. The company's market share and revenue in the luxury/business hotels segment have been eroding due to a combination of aggressive competitive strategies and suboptimal managerial decisions. To reverse this trend and reclaim their market leadership, the managing director is determined to integrate 'Business and Data Intelligence' as a strategic imperative.
+
+Recognizing the need for data-driven insights to inform their strategic decisions, the company aims to harness the power of their historical data. However, a significant obstacle stands in their way: they lack an internal data analytics team capable of deriving these vital insights. As a solution, the revenue management team has taken the initiative to engage a third-party service provider that specializes in extracting actionable insights from their data repository. The objective is to empower the company with the intelligence required to make informed decisions, regain lost market share, and rejuvenate revenue streams in the fiercely competitive luxury/business hotels landscape.
+
 ## Highlights
 - The insights derived from this analysis aimed to optimize revenue generation, improve market competitiveness, inform strategic decision-making,
 identify untapped opportunities, and enhance overall customer satisfaction.
